@@ -64,7 +64,7 @@
 
 
 ### 🛠 Ключевые навыки:
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/OptikRUS/basic_py)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/OptikRUS/basic_py){rel="nofollow"}
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/OptikRUS/geekshop-server)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/OptikRUS/MySQL)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://gb.ru/certificates/1507425)
@@ -78,8 +78,6 @@
 * Learning agility 
 ***
 ### 🎓 Образование:
-<div style="display: inline-block">
-<div>
 <p>
 <a href="https://gb.ru/users/5496910" target="_blank">
 <img height="30" src="https://frontend-scripts.hb.bizmrg.com/unique-hf/svg/logo.svg" alt="GeekBrains">
@@ -98,9 +96,6 @@
 * Методы сбора и обработки данных из сети Интернет
 * Продвинутый курс Javascript
 * Подготовка к собеседованию Python-разработчика
-</div>
-
-<div>
 
 ### Высшее образование:
 <p>
@@ -120,9 +115,6 @@
 
 * <a href="http://mrcpk.tgn.sfedu.ru/" target="_blank">МРЦПКиПК</a>
   * Юриспруденция
-
-</div></div>
-
 ***
 ### <p align="center">💻Обо мне:</p>
 <p>
