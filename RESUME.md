@@ -15,7 +15,7 @@
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-***
+>
 ## Опыт работы:
 <a href="https://gb.ru/users/5496910" target="_blank">
 <img height="30" src="https://frontend-scripts.hb.bizmrg.com/unique-hf/svg/logo.svg" alt="GeekBrains">
@@ -56,9 +56,9 @@
 * Продвинутый курс Javascript
 * Подготовка к собеседованию Python-разработчика
 
+
+
 ## Военнослужащий по контракту
-
-
 <p>
 <a href="http://www.fsb.ru/" target="_blank">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="GeekBrains">
