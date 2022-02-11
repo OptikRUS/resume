@@ -49,10 +49,10 @@
 ### Военнослужащий по контракту
 <p>
 <a href="http://www.fsb.ru/" target="_blank">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="GeekBrains">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="ФСБ">
 </a>
 <a href="http://ps.fsb.ru/" target="_blank">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg/400px-Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg.png" alt="GeekBrains">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg/400px-Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg.png" alt="ПС ФСБ">
 </a>
 </p>
 
@@ -100,10 +100,10 @@
 ### Высшее образование:
 <p>
 <a href="https://sfedu.ru/" target="_blank">
-<img height="100" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_sfedu_round.png" alt="GeekBrains">
+<img height="100" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_sfedu_round.png" alt="ЮФУ">
 </a>
 <a href="https://inep.sfedu.ru/" target="_blank">
-<img height="100" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_inep_round1.png" alt="GeekBrains">
+<img height="100" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_inep_round1.png" alt="ИНЭП ЮФУ">
 </a>
 </p>
 
