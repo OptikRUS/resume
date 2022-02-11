@@ -45,8 +45,7 @@
   * оптимизация запросов БД
   * кэширование
   * после окончания курса взял ещё один проект
-
-
+##
 ### Военнослужащий по контракту
 <p>
 <a href="http://www.fsb.ru/" target="_blank">
@@ -98,6 +97,7 @@
 * Продвинутый курс Javascript
 * Подготовка к собеседованию Python-разработчика
 
+##### Высшее образование:
 <p>
 <a href="https://sfedu.ru/" target="_blank">
 <img height="100" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_sfedu_round.png" alt="GeekBrains">
@@ -128,9 +128,9 @@
 
 
 
-<p align='left'>
+<p align='center'>
 <a href="https://github.com/OptikRUS/">
-	<img height=100 width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptikRUS&layout=compact"/>
+	<img height=200 width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptikRUS&layout=compact"/>
 </a>
 </p>
 
