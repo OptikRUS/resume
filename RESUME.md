@@ -11,7 +11,7 @@
 <a href="https://t.me/OptikRUS" target="_blank">
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/optikrus">
+<a href="https://www.linkedin.com/in/optikrus" target="_blank">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -26,20 +26,20 @@
 
 Срок обучения: с апреля 2021 по настоящее время
 
-* <a href="https://gb.ru/certificates/1308874">Основы языка Python</a>
+* <a href="https://gb.ru/certificates/1308874" target="_blank">Основы языка Python</a>
   * базовые навыки, синтаксис
   * являюсь активным наставником
   * работа с файлами
   * ООП
 
-* <a href="https://gb.ru/certificates/1355282">Linux</a>
-* <a href="https://gb.ru/certificates/1380474">Основы реляционных баз данных. MySQL</a> (курсовая работа <a href="https://github.com/OptikRUS/MySQL/blob/main/kinopoisk.sql">кинопоиск<a/>)
-* <a href="https://gb.ru/certificates/1427214">Алгоритмы и структуры данных на Python</a>
-* <a href="https://gb.ru/certificates/1507425">HTML/CSS/</a><a href="https://gb.ru/certificates/1501074">JavaScript</a>(base)
-* Django Framework (<a href="https://github.com/OptikRUS/geekshop-server">проект</a>, <a href="https://github.com/OptikRUS/django_shop">проект</a>)
-  * <a href="https://gb.ru/certificates/1625816">основы фреймворка</a>
+* <a href="https://gb.ru/certificates/1355282" target="_blank">Linux</a>
+* <a href="https://gb.ru/certificates/1380474" target="_blank">Основы реляционных баз данных. MySQL</a> (курсовая работа <a href="https://github.com/OptikRUS/MySQL/blob/main/kinopoisk.sql">кинопоиск<a/>)
+* <a href="https://gb.ru/certificates/1427214" target="_blank">Алгоритмы и структуры данных на Python</a>
+* <a href="https://gb.ru/certificates/1507425" target="_blank">HTML/CSS/</a><a href="https://gb.ru/certificates/1501074">JavaScript</a>(base)
+* Django Framework (<a href="https://github.com/OptikRUS/geekshop-server" target="_blank">проект</a>, <a href="https://github.com/OptikRUS/django_shop">проект</a>)
+  * <a href="https://gb.ru/certificates/1625816" target="_blank">основы фреймворка</a>
   * деплой проекта на сервер
-  * <a href="https://gb.ru/certificates/1675967">интструменты оптимизации</a>
+  * <a href="https://gb.ru/certificates/1675967" target="_blank">интструменты оптимизации</a>
   * django-debug-toolbar
   * нагрузочное тестирование проекта
   * оптимизация запросов БД
@@ -108,12 +108,12 @@
 </p>
 
 * Бакалавриат
-  * <a href="https://inep.sfedu.ru/chairs/rte/">Электроника и наноэлектроника</a>
+  * <a href="https://inep.sfedu.ru/chairs/rte/" target="_blank">Электроника и наноэлектроника</a>
 
 * Магистратура
-  * <a href="https://inep.sfedu.ru/chairs/rte/">Электроника и наноэлектроника</a>
+  * <a href="https://inep.sfedu.ru/chairs/rte/" target="_blank">Электроника и наноэлектроника</a>
 
-* <a href="http://mrcpk.tgn.sfedu.ru/">МРЦПКиПК</a>
+* <a href="http://mrcpk.tgn.sfedu.ru/" target="_blank">МРЦПКиПК</a>
   * Юриспруденция
 ***
 ### <p align="center">💻Обо мне:</p>
