@@ -1,10 +1,12 @@
 # Кирилл Медведко
-***
+
+
 <img height=300 src="http://www.panram.ru/upload/iblock/7f3/7f3a6017d6a0163f45a40b55774b129d.jpg"/>
 
 ## Python-разработчик
-
 ### Контактная информация:
+
+
 📞  +7-920-664-09-00
 <p align='left'>
    📫 E-mail: <a href='mailto:optikrus61@gmail.com'>optikrus61@gmail.com</a>
@@ -17,7 +19,8 @@
 </a>
 
 # Опыт работы:
-***
+
+
 <p>
 <a href="https://gb.ru/users/5496910" target="_blank">
 <img height="30" src="https://frontend-scripts.hb.bizmrg.com/unique-hf/svg/logo.svg" alt="GeekBrains">
@@ -74,10 +77,8 @@
 Октябрь 2017 - Март 2022
 * быстрый карьерный рост
 * обучение сотрудников
-***
-
-
 ### 🛠 Ключевые навыки:
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
