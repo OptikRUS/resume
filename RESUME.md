@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%F0%9F%91%8B+;.+.+.)](https://git.io/typing-svg)
-# Кирилл Медведко 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=30&center=true&multiline=true&width=600&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C!+%F0%9F%91%8B+;.+.+.)](#кирилл-медведко)
+# Кирилл Медведко
 <img height=300 src="http://www.panram.ru/upload/iblock/7f3/7f3a6017d6a0163f45a40b55774b129d.jpg"/>
 
-## Python-разработчик
+## Python-разработчик 🐍
 ### Контактная информация:
 📞Телефон: +7-920-664-09-00
 <p align='left'>
