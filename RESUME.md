@@ -57,6 +57,8 @@
 * Подготовка к собеседованию Python-разработчика
 ---
 ### Военнослужащий по контракту
+
+
 <p>
 <a href="http://www.fsb.ru/" target="_blank">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="GeekBrains">
@@ -74,13 +76,13 @@
 
 
 ### 🛠 Ключевые навыки:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://gb.ru/certificates/1308874)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://gb.ru/certificates/1625816)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://gb.ru/certificates/1380474)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://gb.ru/certificates/1507425)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://gb.ru/certificates/1501074)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://gb.ru/certificates/1355282)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
@@ -115,7 +117,7 @@
   * Юриспруденция
 ***
 ### 💻Обо мне:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=%D0%97%D0%B4%D0%B5%D1%81%D1%8C+%D0%B1%D1%83%D0%B4%D0%B5%D1%82+%D0%BA%D0%B0%D0%BA%D0%B0%D1%8F-%D1%82%D0%BE+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=%D0%97%D0%B4%D0%B5%D1%81%D1%8C+%D0%B1%D1%83%D0%B4%D0%B5%D1%82+%D0%BA%D0%B0%D0%BA%D0%B0%D1%8F-%D1%82%D0%BE+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5)]()
 ***
 
 https://gist.github.com/AliMD/3344523
@@ -136,8 +138,7 @@ https://habr.com/ru/post/649363/
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptikRUS&layout=compact)](https://github.com/OptikRUS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptikRUS&layout=compact)](https://github.com/OptikRUS)
 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&lines=%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5)](https://git.io/typing-svg)
