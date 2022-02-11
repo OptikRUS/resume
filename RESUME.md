@@ -78,6 +78,8 @@
 * Learning agility 
 ***
 ### 🎓 Образование:
+<div style="display: inline-block">
+<div>
 <p>
 <a href="https://gb.ru/users/5496910" target="_blank">
 <img height="30" src="https://frontend-scripts.hb.bizmrg.com/unique-hf/svg/logo.svg" alt="GeekBrains">
@@ -96,6 +98,9 @@
 * Методы сбора и обработки данных из сети Интернет
 * Продвинутый курс Javascript
 * Подготовка к собеседованию Python-разработчика
+</div>
+
+<div>
 
 ### Высшее образование:
 <p>
@@ -115,6 +120,9 @@
 
 * <a href="http://mrcpk.tgn.sfedu.ru/" target="_blank">МРЦПКиПК</a>
   * Юриспруденция
+
+</div></div>
+
 ***
 ### <p align="center">💻Обо мне:</p>
 <p>
