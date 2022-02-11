@@ -74,7 +74,7 @@
 [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)]()
 
 
-### Soft skills:
+### 💼Soft skills:
 * Learning agility 
 ***
 ### 🎓 Образование:
@@ -125,9 +125,8 @@
 </p>
 
 ***
-
 <p align='center'>
 <a href="https://github.com/OptikRUS/">
-	<img height=100% width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptikRUS&layout=compact"/>
+	<img height=200px width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptikRUS&layout=compact"/>
 </a>
 </p>
