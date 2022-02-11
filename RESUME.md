@@ -57,7 +57,7 @@
 * Продвинутый курс Javascript
 * Подготовка к собеседованию Python-разработчика
 
----
+
 
 ### Военнослужащий по контракту
 <p>
@@ -101,10 +101,10 @@
 
 <p>
 <a href="https://sfedu.ru/" target="_blank">
-<img height="50" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_sfedu_round.png" alt="GeekBrains">
+<img height="100" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_sfedu_round.png" alt="GeekBrains">
 </a>
 <a href="https://inep.sfedu.ru/" target="_blank">
-<img height="50" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_inep_round1.png" alt="GeekBrains">
+<img height="100" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_inep_round1.png" alt="GeekBrains">
 </a>
 </p>
 
@@ -118,7 +118,7 @@
   * Юриспруденция
 ***
 ### <p align="center">💻Обо мне:</p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=%D0%97%D0%B4%D0%B5%D1%81%D1%8C+%D0%B1%D1%83%D0%B4%D0%B5%D1%82+%D0%BA%D0%B0%D0%BA%D0%B0%D1%8F-%D1%82%D0%BE+%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=The+Times+New+Roman&color=%23000000&size=25&duration=2500&multiline=true&width=500&lines=%D0%92+%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D0%B5+2021+%D0%B3%D0%BE%D0%B4%D0%B0+%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BD%D0%B0%D1%87%D0%B0%D0%BB+%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%82%D1%8C+Python.+%D0%90+%D0%B2+%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D0%B5+%D1%83%D0%B6%D0%B5+%D0%BA%D1%83%D0%BF%D0%B8%D0%BB+%D0%BA%D1%83%D1%80%D1%81%D1%8B.+)](https://git.io/typing-svg)
 ***
 
 https://gist.github.com/AliMD/3344523
@@ -144,3 +144,4 @@ https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md
 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=The+Times+New+Roman&color=%23000000&size=25&multiline=true&width=500&lines=%D0%92+%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D0%B5+2021+%D0%B3%D0%BE%D0%B4%D0%B0+%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BD%D0%B0%D1%87%D0%B0%D0%BB+%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%82%D1%8C+Python.+%D0%90+%D0%B2+%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D0%B5+%D1%83%D0%B6%D0%B5+%D0%BA%D1%83%D0%BF%D0%B8%D0%BB+%D0%BA%D1%83%D1%80%D1%81%D1%8B.+)](https://git.io/typing-svg)
