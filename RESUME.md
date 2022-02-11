@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%23000202&size=32&center=true&multiline=true&width=600&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C!+%F0%9F%91%8B+;.+.+.)](#кирилл-медведко)
-# Кирилл Медведко
+# Кирилл Медведко [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=%23000202&size=32&center=true&multiline=true&width=600&lines=%F0%9F%91%8B+)](#кирилл-медведко)
 <img height=300 src="http://www.panram.ru/upload/iblock/7f3/7f3a6017d6a0163f45a40b55774b129d.jpg"/>
 
 ## Python-разработчик 🐍
