@@ -77,7 +77,7 @@
 ### 💼Soft skills:
 * Learning agility 
 ***
-### 🎓 Образование:
+## 🎓 Образование:
 ##
 <p>
 <a href="https://gb.ru/users/5496910" target="_blank">
