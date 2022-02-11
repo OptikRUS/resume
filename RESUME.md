@@ -17,7 +17,6 @@
 
 ***
 # Опыт работы:
-
 <p>
 <a href="https://gb.ru/users/5496910" target="_blank">
 <img height="30" src="https://frontend-scripts.hb.bizmrg.com/unique-hf/svg/logo.svg" alt="GeekBrains">
