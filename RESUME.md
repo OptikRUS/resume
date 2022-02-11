@@ -16,13 +16,12 @@
 </a>
 
 ***
-
-
 ## Опыт работы:
 <a href="https://gb.ru/users/5496910" target="_blank">
 <img height="30" src="https://frontend-scripts.hb.bizmrg.com/unique-hf/svg/logo.svg" alt="GeekBrains">
 </a>
 
+---
 ### Python-разработчик(обучение)
 
 Срок обучения: с апреля 2021 по настоящее время
@@ -58,7 +57,8 @@
 * Продвинутый курс Javascript
 * Подготовка к собеседованию Python-разработчика
 
-### Военнослужащий по контракту
+## Военнослужащий по контракту
+---
 <p>
 <a href="http://www.fsb.ru/" target="_blank">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="GeekBrains">
