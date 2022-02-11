@@ -1,4 +1,5 @@
-# Кирилл Медведко
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%F0%9F%91%8B+;.+.+.)](https://git.io/typing-svg)
+# Кирилл Медведко 👋 
 <img height=300 src="http://www.panram.ru/upload/iblock/7f3/7f3a6017d6a0163f45a40b55774b129d.jpg"/>
 
 ## Python-разработчик
@@ -48,10 +49,10 @@
 ### Военнослужащий по контракту
 <p>
 <a href="http://www.fsb.ru/" target="_blank">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="ФСБ">
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="ФСБ">
 </a>
 <a href="http://ps.fsb.ru/" target="_blank">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg/400px-Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg.png" alt="ПС ФСБ">
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg/400px-Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg.png" alt="ПС ФСБ">
 </a>
 </p>
 
