@@ -1,6 +1,5 @@
 # Кирилл Медведко
-
-
+***
 <img height=300 src="http://www.panram.ru/upload/iblock/7f3/7f3a6017d6a0163f45a40b55774b129d.jpg"/>
 
 ## Python-разработчик
@@ -77,9 +76,9 @@
 Октябрь 2017 - Март 2022
 * быстрый карьерный рост
 * обучение сотрудников
+
 ### 🛠 Ключевые навыки:
-
-
+***
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
