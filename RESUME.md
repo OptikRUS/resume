@@ -126,23 +126,8 @@
 
 ***
 
-
-
 <p align='center'>
 <a href="https://github.com/OptikRUS/">
-	<img height=200 width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptikRUS&layout=compact"/>
+	<img height=100% width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptikRUS&layout=compact"/>
 </a>
 </p>
-
-
-https://gist.github.com/AliMD/3344523
-
-https://habr.com/ru/post/649363/
-
-https://javarush.ru/groups/posts/3424-pishem-rezjume-na-github
-
-https://github.com/Ileriayo/markdown-badges
-
-https://readme-typing-svg.herokuapp.com/demo/
-
-https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md
