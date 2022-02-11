@@ -59,8 +59,6 @@
 
 
 ### Военнослужащий по контракту
-
-
 <p>
 <a href="http://www.fsb.ru/" target="_blank">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="GeekBrains">
@@ -85,7 +83,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/OptikRUS/basic_JS)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OptikRUS)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://gb.ru/certificates/1355282)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)]()
 
 
 ### Soft skills:
@@ -132,7 +130,8 @@ https://github.com/Ileriayo/markdown-badges
 
 https://readme-typing-svg.herokuapp.com/demo/
 
-https://habr.com/ru/post/649363/
+https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md
+
 
 <p align='left'>
 <a href="https://github.com/OptikRUS/">
