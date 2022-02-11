@@ -118,8 +118,23 @@
   * Юриспруденция
 ***
 ### <p align="center">💻Обо мне:</p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=The+Times+New+Roman&color=%23000000&size=25&duration=2500&multiline=true&width=500&lines=%D0%92+%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D0%B5+2021+%D0%B3%D0%BE%D0%B4%D0%B0+%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BD%D0%B0%D1%87%D0%B0%D0%BB+%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%82%D1%8C+Python.+%D0%90+%D0%B2+%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D0%B5+%D1%83%D0%B6%D0%B5+%D0%BA%D1%83%D0%BF%D0%B8%D0%BB+%D0%BA%D1%83%D1%80%D1%81%D1%8B.+)](https://git.io/typing-svg)
+<p>
+Когда на своей предыдущей работе я достиг успехов и развиваться было уже некуда, я решил окунуться в сферу IT.
+Эта сфера поглотила меня сразу. В январе 2021 года самостоятельно начал изучать Python. А в апреле уже купил курсы.
+На своё обучение я трачу всё свободное время и не собираюсь останавливатсья.
+Сейчас я хочу найти применение своим навыкам, которые приобрёл.
+</p>
+
 ***
+
+
+
+<p align='left'>
+<a href="https://github.com/OptikRUS/">
+	<img height=100 width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptikRUS&layout=compact"/>
+</a>
+</p>
+
 
 https://gist.github.com/AliMD/3344523
 
@@ -132,16 +147,3 @@ https://github.com/Ileriayo/markdown-badges
 https://readme-typing-svg.herokuapp.com/demo/
 
 https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md
-
-
-<p align='left'>
-<a href="https://github.com/OptikRUS/">
-	<img height=300 width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptikRUS&layout=compact"/>
-</a>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptikRUS&layout=compact)](https://github.com/OptikRUS)
-
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=The+Times+New+Roman&color=%23000000&size=25&multiline=true&width=500&lines=%D0%92+%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D0%B5+2021+%D0%B3%D0%BE%D0%B4%D0%B0+%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BD%D0%B0%D1%87%D0%B0%D0%BB+%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%82%D1%8C+Python.+%D0%90+%D0%B2+%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D0%B5+%D1%83%D0%B6%D0%B5+%D0%BA%D1%83%D0%BF%D0%B8%D0%BB+%D0%BA%D1%83%D1%80%D1%81%D1%8B.+)](https://git.io/typing-svg)
