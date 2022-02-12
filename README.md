@@ -35,6 +35,7 @@
 * <a href="https://gb.ru/certificates/1380474" target="_blank">Основы реляционных баз данных. MySQL</a> (курсовая работа <a href="https://github.com/OptikRUS/MySQL/blob/main/kinopoisk.sql">кинопоиск<a/>)
 * <a href="https://gb.ru/certificates/1427214" target="_blank">Алгоритмы и структуры данных на Python</a>
 * <a href="https://gb.ru/certificates/1507425" target="_blank">HTML/CSS/</a><a href="https://gb.ru/certificates/1501074">JavaScript</a>(base)
+* Создаем фреймворк – упрощенный аналог Python Django [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-91505bf0-8885-4d58-8412-8db1f717a60f/)
 * Django Framework (<a href="https://github.com/OptikRUS/geekshop-server" target="_blank">проект</a>, <a href="https://github.com/OptikRUS/django_shop">проект</a>)
   * <a href="https://gb.ru/certificates/1625816" target="_blank">основы фреймворка</a>
   * деплой проекта на сервер
