@@ -27,9 +27,9 @@
 
 * <a href="https://gb.ru/certificates/1308874" target="_blank">Основы языка Python</a>
   * базовые навыки, синтаксис
-  * являюсь активным наставником
   * работа с файлами
   * ООП
+  * активный наставник курса
 
 * <a href="https://gb.ru/certificates/1355282" target="_blank">Linux</a>
 * <a href="https://gb.ru/certificates/1380474" target="_blank">Основы реляционных баз данных. MySQL</a> (курсовая работа <a href="https://github.com/OptikRUS/MySQL/blob/main/kinopoisk.sql">кинопоиск<a/>)
@@ -45,6 +45,7 @@
   * оптимизация запросов БД
   * кэширование
   * после окончания курса взял ещё один проект
+  * активный наставник курса
 ##
 ### Военнослужащий по контракту
 <p>
