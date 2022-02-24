@@ -92,7 +92,8 @@
 * Geek University Python-разработки
 
 ###### Сейчас изучаю:
-* Django REST Framework [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)]()
+* Django REST Framework
+[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)]()
 
 ###### Запланированные курсы:
 * Клиент-серверные приложения на Python
