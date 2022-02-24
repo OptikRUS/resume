@@ -67,7 +67,7 @@
 ***
 
 
-### 🛠 Ключевые навыки и проекты:
+### 🛠 Ключевые навыки:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/OptikRUS/basic_py)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/OptikRUS/geekshop-server)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/OptikRUS/MySQL)
