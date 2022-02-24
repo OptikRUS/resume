@@ -14,9 +14,9 @@
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+***
 
 ## Опыт работы:
-
 
 <p>
 <a href="https://gb.ru/users/5496910" target="_blank">
