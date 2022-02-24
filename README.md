@@ -75,7 +75,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/OptikRUS/basic_JS)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OptikRUS)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://gb.ru/certificates/1355282)
-[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#)
+[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#ключевые_навыки)
 
 ### 💼Soft skills:
 * Learning agility
@@ -92,7 +92,7 @@
 * Geek University Python-разработки
 
 ###### Сейчас изучаю:
-* Django REST Framework [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](#)
+* Django REST Framework [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](#сейчас_изучаю)
 
 ###### Запланированные курсы:
 * Клиент-серверные приложения на Python
