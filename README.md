@@ -16,7 +16,6 @@
 
 
 ## Опыт работы:
-***
 
 
 <a href="https://gb.ru/users/5496910" target="_blank">
