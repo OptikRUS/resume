@@ -77,7 +77,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://gb.ru/certificates/1355282)
 [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)]()
 
-
 ### 💼Soft skills:
 * Learning agility
 * Коммуникативные навыки
@@ -93,7 +92,7 @@
 * Geek University Python-разработки
 
 ###### Сейчас изучаю:
-* Django REST Framework
+* Django REST Framework [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)]()
 
 ###### Запланированные курсы:
 * Клиент-серверные приложения на Python
