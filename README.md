@@ -38,6 +38,7 @@
 * <a href="https://gb.ru/certificates/1380474" target="_blank">Основы реляционных баз данных. MySQL</a> (курсовая работа <a href="https://github.com/OptikRUS/MySQL/blob/main/kinopoisk.sql">кинопоиск<a/>)
 * <a href="https://gb.ru/certificates/1427214" target="_blank">Алгоритмы и структуры данных на Python</a>
 * <a href="https://gb.ru/certificates/1507425" target="_blank">HTML/CSS/</a><a href="https://gb.ru/certificates/1501074">JavaScript</a>(base)
+* aiogram
 * Создание фреймворка – упрощенного аналога Python Django [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-91505bf0-8885-4d58-8412-8db1f717a60f/)
 * Django Framework (<a href="https://github.com/OptikRUS/geekshop-server" target="_blank">проект</a>, <a href="https://github.com/OptikRUS/django_shop">проект</a>)
   * <a href="https://gb.ru/certificates/1625816" target="_blank">основы фреймворка</a>
@@ -132,7 +133,7 @@
 ***
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=600&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+24+%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F+2022+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=600&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+16+%D0%BC%D0%B0%D1%80%D1%82%D0%B0+2022+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
 
 </div>
 
