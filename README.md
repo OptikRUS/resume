@@ -50,6 +50,7 @@
   * кэширование
   * после окончания курса взял ещё один проект
   * активный наставник курса [<img height=40 src="https://gbcdn.mrgcdn.ru/uploads/assets/education/mentor@2x-34db5a263e75ef61683bbec8980f0bd44a353b9233b3a271b68b94de21e2cf7b.png"/>](https://gb.ru/users/5496910)
+* <a href="https://gb.ru/certificates/1756600" target="_blank">HTML/CSS/</a><a href="https://gb.ru/certificates/1501074">Django REST Framework</a> (<a href="https://github.com/OptikRUS/service" target="_blank">проект</a>)
 ##
 ### Военнослужащий по контракту
 <p>
@@ -77,6 +78,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OptikRUS)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://gb.ru/certificates/1355282)
 [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#-ключевые-навыки)
+[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://github.com/OptikRUS/service)
 
 ### 💼Soft skills:
 * Learning agility
@@ -93,15 +95,15 @@
 * Geek University Python-разработки
 
 ###### Сейчас изучаю:
-* Django REST Framework [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](#сейчас-изучаю)
+* Методы сбора и обработки данных из сети Интернет
+* Клиент-серверные приложения на Python
 
 ###### Запланированные курсы:
-* Клиент-серверные приложения на Python
 * Базы данных и PyQT
 * Архитектура и шаблоны проектирования на Python
 * Agile, Scrum. Теория
 * Командная разработка по методологии Agile: SCRUM (практика)
-* Методы сбора и обработки данных из сети Интернет
+
 * Продвинутый курс Javascript
 ##
 ### Высшее образование:
@@ -133,7 +135,7 @@
 ***
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=600&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+16+%D0%BC%D0%B0%D1%80%D1%82%D0%B0+2022+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=600&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+16+%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F+2022+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
 
 </div>
 
