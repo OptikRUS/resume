@@ -16,7 +16,7 @@
 
 ***
 
-## 🎯 Опыт работы:
+## 💼 Опыт работы:
 
 <p>
 <a href="https://gb.ru/users/5496910" target="_blank">
@@ -80,7 +80,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://gb.ru/certificates/1355282)
 [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#-ключевые-навыки)
 
-### 💼 Soft skills:
+### 🤝 Soft skills:
 * Learning agility
 * Коммуникативные навыки
 * Умение работать с информацией
