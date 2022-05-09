@@ -1,5 +1,5 @@
 # Кирилл Медведко[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
-<img height=300 src="https://4.downloader.disk.yandex.ru/preview/3e89ae9992379d2ad994bb66f3ea9523cef5dc6fd5041b896b8061d9de0c1ea2/inf/sFSwhi9uGFGwPHMllwbw3RS5meAFKYXo8ujx3jmOrXKztwqJ2wmQ_sAU9kS5-BzKNLiKTN9S6GmuzrR9NJV-iw%3D%3D?uid=290991182&filename=IMG_1280.HEIC&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=290991182&tknv=v2&size=2880x1578"/>
+<img height=300 src="![img_1.png](img_1.png)"/>
 
 ## Python-разработчик 🐍
 ### Контактная информация:
