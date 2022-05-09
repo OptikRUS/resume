@@ -51,6 +51,11 @@
   * после окончания курса взял ещё один проект
   * активный наставник курса [<img height=40 src="https://gbcdn.mrgcdn.ru/uploads/assets/education/mentor@2x-34db5a263e75ef61683bbec8980f0bd44a353b9233b3a271b68b94de21e2cf7b.png"/>](https://gb.ru/users/5496910)
 * <a href="https://gb.ru/certificates/1756600">Django REST Framework</a> (<a href="https://github.com/OptikRUS/service" target="_blank">проект</a>)
+  * API
+  * Система версий API
+  * Тестирование API
+  * Авторизация
+  * Развертывание проекта с Docker и docker-compose
 ##
 ### Военнослужащий по контракту
 <p>
