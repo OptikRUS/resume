@@ -1,5 +1,5 @@
 # Кирилл Медведко[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
-<img height=300 src="![img_1.png](img_1.png)"/>
+<img height=300 src="https://github.com/OptikRUS/resume/blob/master/img.png?raw=true"/>
 
 ## Python-разработчик 🐍
 ### Контактная информация:
