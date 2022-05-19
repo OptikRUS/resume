@@ -56,35 +56,21 @@
   * Тестирование API
   * Авторизация
   * Развертывание проекта с Docker и docker-compose
+##
+### Военнослужащий по контракту
+<p>
+<a href="http://www.fsb.ru/" target="_blank">
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="ФСБ">
+</a>
+<a href="http://ps.fsb.ru/" target="_blank">
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg/400px-Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg.png" alt="ПС ФСБ">
+</a>
+</p>
 
-[//]: # (##)
-
-[//]: # (### Военнослужащий по контракту)
-
-[//]: # (<p>)
-
-[//]: # (<a href="http://www.fsb.ru/" target="_blank">)
-
-[//]: # (<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="ФСБ">)
-
-[//]: # (</a>)
-
-[//]: # (<a href="http://ps.fsb.ru/" target="_blank">)
-
-[//]: # (<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg/400px-Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg.png" alt="ПС ФСБ">)
-
-[//]: # (</a>)
-
-[//]: # (</p>)
-
-[//]: # ()
-[//]: # (#### Начальник кинологической группы 🐾  )
-
-[//]: # (Октябрь 2017 - Апрель 2022)
-
-[//]: # (* быстрый карьерный рост)
-
-[//]: # (* успешно обучал сотрудников)
+#### Начальник кинологической группы 🐾  
+Октябрь 2017 - Апрель 2022
+* быстрый карьерный рост
+* успешно обучал сотрудников
 ***
 
 
