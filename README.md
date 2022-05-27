@@ -43,7 +43,7 @@
 * Django Framework (<a href="https://github.com/OptikRUS/geekshop-server" target="_blank">проект</a>, <a href="https://github.com/OptikRUS/django_shop">проект</a>)
   * <a href="https://gb.ru/certificates/1625816" target="_blank">основы фреймворка</a>
   * деплой проекта на сервер
-  * <a href="https://gb.ru/certificates/1675967" target="_blank">интструменты оптимизации</a>
+  * <a href="https://gb.ru/certificates/1675967" target="_blank">инструменты оптимизации</a>
   * django-debug-toolbar
   * нагрузочное тестирование проекта
   * оптимизация запросов БД
@@ -57,21 +57,35 @@
   * Авторизация
   * Развертывание проекта с Docker и docker-compose
 ##
-### Военнослужащий по контракту
-<p>
-<a href="http://www.fsb.ru/" target="_blank">
-<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="ФСБ">
-</a>
-<a href="http://ps.fsb.ru/" target="_blank">
-<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg/400px-Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg.png" alt="ПС ФСБ">
-</a>
-</p>
 
-#### Начальник кинологической группы 🐾  
-Октябрь 2017 - Апрель 2022
-* быстрый карьерный рост
-* успешно обучал сотрудников
-***
+[//]: # (### Военнослужащий по контракту)
+
+[//]: # (<p>)
+
+[//]: # (<a href="http://www.fsb.ru/" target="_blank">)
+
+[//]: # (<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Emblem_of_Federal_security_service.svg/200px-Emblem_of_Federal_security_service.svg.png" alt="ФСБ">)
+
+[//]: # (</a>)
+
+[//]: # (<a href="http://ps.fsb.ru/" target="_blank">)
+
+[//]: # (<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg/400px-Russian_Federation._Emblem_of_the_Border_Guard_Service_of_the_Federal_Security_Service.svg.png" alt="ПС ФСБ">)
+
+[//]: # (</a>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (#### Начальник кинологической группы 🐾  )
+
+[//]: # (Октябрь 2017 - Апрель 2022)
+
+[//]: # (* быстрый карьерный рост)
+
+[//]: # (* успешно обучал сотрудников)
+
+[//]: # (***)
 
 
 ### 🛠 Ключевые навыки:
