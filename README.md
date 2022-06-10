@@ -56,6 +56,17 @@
   * Тестирование API
   * Авторизация
   * Развертывание проекта с Docker и docker-compose
+* <a href="https://gb.ru/certificates/1823511">Клиент-серверные приложения на Python</a> (<a href="https://github.com/OptikRUS/client-server" target="_blank">проект</a>)
+  * Основы сетевого программирования
+  * Основы тестирования
+  * Логирование
+  * Потоки
+* <a href="https://gb.ru/certificates/1837254">Методы сбора и обработки данных из сети Интернет</a> (<a href="https://github.com/OptikRUS/client-server" target="_blank">репо</a>)
+  * Работа с API
+  * Beautiful soup.
+  * XPath
+  * Selenium
+  * Scrapy
 ##
 
 [//]: # (### Военнослужащий по контракту)
@@ -114,8 +125,7 @@
 * Geek University Python-разработки
 
 ###### Сейчас изучаю:
-* Методы сбора и обработки данных из сети Интернет
-* Клиент-серверные приложения на Python
+* asyncio
 
 ###### Запланированные курсы:
 * Базы данных и PyQT
@@ -154,7 +164,7 @@
 ***
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=600&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+9+%D0%BC%D0%B0%D1%8F+2022+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=600&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+10+%D0%B8%D1%8E%D0%BD%D1%8F+2022+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
 
 </div>
 
