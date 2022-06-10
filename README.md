@@ -61,7 +61,7 @@
   * Основы тестирования
   * Логирование
   * Потоки
-* <a href="https://gb.ru/certificates/1837254">Методы сбора и обработки данных из сети Интернет</a> (<a href="https://github.com/OptikRUS/client-server" target="_blank">репо</a>)
+* <a href="https://gb.ru/certificates/1837254">Методы сбора и обработки данных из сети Интернет</a> (<a href="https://github.com/OptikRUS/web-scraping" target="_blank">репо</a>)
   * Работа с API
   * Beautiful soup.
   * XPath
