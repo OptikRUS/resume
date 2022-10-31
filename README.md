@@ -44,8 +44,7 @@
 * Есть опыт наставничества
 
 ***
-## 🎓 Образование:
-### Высшее образование:
+## 🎓 Высшее образование:
 <p>
 <a href="https://sfedu.ru/" target="_blank">
 <img height="100" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_sfedu_round.png" alt="ЮФУ">
