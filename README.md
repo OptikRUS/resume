@@ -2,7 +2,7 @@
 <img height=400 src="IMG_1280.jpeg"/>
 
 ## Backend Developer | Python3🐍 Django FastAPI PostgreSQL
-### Контактная информация:
+## Контактная информация:
 
 [//]: # (📞Телефон: +7-920-664-09-00)
 <p align='left'>
@@ -24,7 +24,7 @@
 - Работа над поддержкой и развитием новой функциональности
 - Покрытие кодовой базы приложения тестами
 
-### 🛠 Ключевые навыки:
+## 🛠 Ключевые навыки:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -37,7 +37,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🤝 Soft skills:
+## 🤝 Soft skills:
 * Learning agility
 * Коммуникативные навыки
 * Умение работать с информацией
@@ -65,7 +65,7 @@
 * <a href="http://mrcpk.tgn.sfedu.ru/" target="_blank">МРЦПКиПК</a>
   * Юриспруденция
 ***
-### <p align="center">💻 Обо мне:</p>
+## <p align="center">💻 Обо мне:</p>
 <p>
 В свободное время занимаюсь обучением. Люблю изучать новые технологии и делиться опытом.
 </p>
