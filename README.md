@@ -1,5 +1,5 @@
 # Кирилл М.[![Typing SVG](https://github.com/OptikRUS/resume/blob/photo/Avatar.jpeg)](#кирилл-медведко)
-<img height=400 src="IMG_1280.jpeg"/>
+<img height=400 src="https://github.com/OptikRUS/resume/blob/photo/Avatar.jpeg"/>
 
 ### Backend Developer | Python3🐍 Django FastAPI PostgreSQL
 ## Контактная информация:
