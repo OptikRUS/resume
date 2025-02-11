@@ -5,7 +5,7 @@
 
 📞Phone: +7-778-237-89-68
 <p align='left'>
-   📫 E-mail: <a href='mailto:optikrus61@gmail.com'>optikrus61@gmail.com</a>
+   📫E-mail: <a href='mailto:optikrus61@gmail.com'>optikrus61@gmail.com</a>
 </p>
 <a href="https://t.me/OptikRUS" target="_blank">
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
