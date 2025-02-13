@@ -1,6 +1,6 @@
 [//]: # ([💾 Скачать резюме]&#40;https://disk.yandex.ru/i/1XMum6k9oq2T7Q "Скачать резюме"&#41;)
 # Кирилл М.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
-### SOFTWARE ENGINEER | Backend Developer | Python3🐍 FastAPI Django PostgreSQL
+### Backend Developer👨‍💻 | Python3🐍 FastAPI Asyncio | PostgreSQL Docker | Mentor
 ## Контактная информация:
 
 📞Phone: +7-778-237-89-68
