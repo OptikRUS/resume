@@ -73,7 +73,7 @@
 - Спроектировал **микросервис для загрузки файлов** с поддержкой **S3 и MinIO**, реализовав кэширование метаданных в **PostgreSQL**, 
 что сократило время доступа к файлам **на 40%** и снизило нагрузку на хранилище
 
-**Стек**: Python3 (OpenCV, PyQt6, SQLAlchemy, pyinstaller), SQLite, Docker, GitHub, Trello
+**Стек**: Python3 (FastAPI, pytest), PostgreSQL, Docker, S3 (Amazon, MinIO), GitHub, Trello
 
 ---
 **Проект**: Десктоп приложение для распознавания автомобильных номеров
@@ -86,7 +86,7 @@
 что повысило скорость детекции на 40%
 - Автоматизировал сборку Python-приложения в .exe, оптимизировав размер и зависимости, что снизило время развёртывания на 50%
 
-**Стек**: Python3 (FastAPI, Django DRF), PostgreSQL, MongoDB, Docker, S3 (Amazon, MinIO), GitHub, Trello
+**Стек**: Python3 (OpenCV, PyQt6, SQLAlchemy, pyinstaller), SQLite, Docker, GitHub, Trello
 
 ---
 **Проект**: Мобильное приложение для контрольных органов
