@@ -228,6 +228,9 @@ Senior Backend Engineer с 6+ годами опыта проектировани
 
 ***
 ## <p align="center">🏆 Достижения:</p>
+  * Финалист <a href="https://i.moscow/lct" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2025</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_certificate_lct_2025_msk.pdf" target="_blank">Сертификат</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_diploma_lct_2025_msk.pdf" target="_blank">Диплом</a>
   * Финалист <a href="https://i.moscow/lct" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2024</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_certificate_lct_2024_msk.pdf" target="_blank">Сертификат</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_diploma_lct_2024_msk.pdf" target="_blank">Диплом</a>
@@ -249,7 +252,7 @@ Senior Backend Engineer с 6+ годами опыта проектировани
 Senior Backend Engineer, специализирующийся на высоконагруженных распределённых системах, event-driven архитектурах и developer experience.
 Обеспечил измеримый бизнес-импакт в B2B маркетплейсах, fintech-аналитике, платформах недвижимости и государственных системах.
 Доказанный трек-рекорд трансформации инженерной культуры через менторство, test-driven разработку и архитектурные стандарты —
-последовательно повышаю производительность команд. 3x финалист хакатона «Лидеры цифровой трансформации».
+последовательно повышаю производительность команд. 4x финалист хакатона «Лидеры цифровой трансформации».
 </p>
 
 ***
