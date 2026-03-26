@@ -1,11 +1,14 @@
 [//]: # ([💾 Скачать резюме]&#40;https://disk.yandex.ru/i/1XMum6k9oq2T7Q "Скачать резюме"&#41;)
-# Кирилл М.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
-### Senior Backend Engineer👨‍💻 | Python3🐍 FastAPI Asyncio | Инфраструктура и архитектура
+<a href="https://github.com/OptikRUS/resume/blob/master/README.md" target="_blank">На английском</a>
+
+# Kirill M.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
+### Senior Backend Engineer👨‍💻 | Python3🐍 FastAPI Asyncio | Infrastructure & Architecture
 
 ## Профиль
 
-Senior Backend Engineer с 6+ годами опыта проектирования высоконагруженных распределённых систем на Python. Добился **снижения latency в 36 раз** на таблицах с 20M записей, спроектировал event-driven платформу, обрабатывающую **19M+ событий Kafka**, и обеспечил **zero-downtime деплой** для 15–20 микросервисов. Force multiplier: менторил 4+ инженеров до повышения, внедрил культуру TDD/BDD, снизив количество багов на **70%**, и стандартизировал шаблон микросервисов, сократив время деплоя вдвое.
-## Контактная информация:
+Senior Backend Engineer с 6+ годами опыта построения высоконагруженных распределённых систем на Python. Достиг **36x снижения задержки (latency)** на наборах данных в 20M строк, спроектировал event-driven платформу, обрабатывающую **16–19M событий Kafka**, и провёл **zero-downtime деплои** на 15–20 микросервисах. Force multiplier: наставил 4+ инженеров до повышения, внедрил культуру TDD/BDD, сократив bug rate на **70%**, и стандартизировал шаблоны микросервисов, сократив время деплоя вдвое.
+
+## Контакты:
 
 <p align='left'>
    📫E-mail: <a href='mailto:kirillpydev@gmail.com'>kirillpydev@gmail.com</a>
@@ -19,143 +22,149 @@ Senior Backend Engineer с 6+ годами опыта проектировани
 
 ***
 
-## 💼 Опыт работы:
+## 💼 Профессиональный опыт:
+
 <a href="https://www.compel.ru/" target="_blank">
 <img height="100" src="https://weipu.ru/upload/iblock/28a/compel_logo.png" alt="Компэл">
 </a>
 
-**Senior Backend Developer** | Окт 2023 – настоящее время
+**Senior Backend Developer** | Октябрь 2023 – По настоящее время
 
-**Проект**: B2B Microservices Platform (~20M SKU каталог, 15–20 микросервисов, 16–20M записей/сущность)
-- Оптимизировал поисковые запросы по таблицам с 20M записей, снизив latency API **с 3500 мс до 95 мс (в 36 раз)** через EXPLAIN ANALYZE-driven денормализацию и точечное B-tree индексирование
-- Ускорил массовый импорт 15–20M записей **с 8 часов до 40 минут (в 12 раз)**, оркестрируя циклы drop/rebuild индексов, bulk insert и устранение блокировок транзакций
-- Провёл нагрузочное тестирование с **Locust**, выявил узкие места системы и обеспечил **снижение времени отклика в 30 раз** на критичных эндпоинтах
-- Спроектировал event-driven пайплайн на **Kafka**, обрабатывающий **16–19M событий**, обеспечив near real-time синхронизацию данных с zero downtime через dual-pipeline стратегию и feature flags
-- Реализовал асинхронную выгрузку данных из **MinIO**, устранив ручные процессы и снизив нагрузку на основную базу данных
-- Внедрил автоматизированное тестирование с **pytest**, доведя **покрытие кода до 98%** и **сократив количество production-багов на 70%**
-- Разработал **C4 L1/L2 архитектурные диаграммы**, ускорив онбординг новых инженеров и сократив совещания по архитектуре на **30%**
-- Внедрил **BDD-сценарии** и обучил аналитиков их написанию, снизив возвраты задач на доработку на **35%** и повысив качество требований
-- Создал **шаблон микросервиса** со стандартизированной структурой проекта, CI/CD и тулингом — сократив время деплоя нового сервиса **в 2 раза** и обеспечив единообразие кода
-- **Менторил 4+ инженеров** в системной архитектуре, TDD и BDD — большинство подопечных достигли повышения или значительного роста навыков
-- Оптимизировал процессы спринт-планирования и оценки, увеличив точность прогнозирования сроков на **35%** и сбалансировав нагрузку в команде
-- Спроектировал паттерн разделения micro-BE / micro-FE, улучшив горизонтальное масштабирование и обеспечив переиспользование компонентов между проектами
-- Интегрировал **Kafka** для асинхронного межсервисного взаимодействия, ускорив обработку заказов на **35%**
-- Разработал стратегию декомпозиции для миграции с монолита на микросервисы, сформировав приоритизированный бэклог, ускоривший архитектурный переход
+**Проект**: B2B Платформа микросервисов (~20M SKU каталог, 15–20 микросервисов, 16–20M строк/сущность)
 
-**Стек**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, GitLab, Jira
+- **Search UX Discovery**: выяснил, что пользователи копируют-вставляют названия компонентов вместо печати — отказался от сложного in-memory кэширования в пользу простого ограничения результатов (1000 элементов), **сэкономив недели разработки** при соответсвии реальному поведению пользователей
+- **Оптимизация поиска**: снизил latency API на 36x (с 3500 ms до 95 ms) через EXPLAIN ANALYZE-драйвенную денормализацию и B-tree индексы на таблицах 20M строк
+- **Bulk импорт данных**: ускорил загрузку 15–20M записей **с 8 часов до 40 минут (12x)** через цикл drop/rebuild индексов, bulk inserts и устранение transaction locks
+- **Нагрузочное тестирование**: проводил тесты с **Locust**, выявил узкие места и добился **30x улучшения времени отклика** на критических endpoint'ах
+- **Kafka event-driven pipeline**: спроектировал и внедрил pipeline на **Kafka**, обрабатывающий **16–19M событий**, достигнув near real-time синхронизации с zero downtime через dual-pipeline стратегию и feature flags
+- **Асинхронный экспорт MinIO**: реализовал асинхронный экспорт данных, устранив ручные операции и снизив нагрузку на primary БД
+- **Автоматизация тестирования**: внедрил **pytest**, довёл покрытие кода **до 98%** и **сократил production bugs на 70%**
+- **C4 архитектурные диаграммы**: спроектировал L1/L2 диаграммы, сократив время онбординга новых инженеров и количество архитектурных митингов **на 30%**
+- **BDD практики**: внедрил BDD сценарии и обучил аналитиков писать их, сократив переделку задач **на 35%** и повысив качество требований
+- **Шаблон микросервиса**: создал шаблон со стандартной структурой, CI/CD и тулзингом — **сократил время деплоя нового сервиса вдвое** и обеспечил консистентность кода
+- **Менторство**: наставил **4+ инженеров** в системной архитектуре, TDD и BDD — большинство учеников получили повышение или значительный рост навыков
+- **Оптимизация планирования**: улучшил workflows планирования спринтов и оценок, повысив точность дедлайнов **на 35%** и сбалансировав нагрузку команды
+- **Паттерн разделения на микросервисы бэкенда и фронтенда**: разработал паттерн разделения, улучшив горизонтальную масштабируемость и обеспечив повторное использование компонентов между проектами
+- **Kafka для межсервисной коммуникации**: интегрировал Kafka для асинхронного обмена, улучшив пропускную способность обработки заказов **на 35%**
+- **Стратегия декомпозиции монолита**: разработал стратегию и prioritized backlog для миграции монолит → микросервисы
 
-***
+**Технологический стек**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, GitLab, Jira
+
+---
 
 <a href="https://fortech.dev/" target="_blank">
 <img height="50" src="https://fortech.dev/static/a32912ca163863d6d8eba37312fee27c/fortech-standart-logo.svg" alt="Fortech">
 </a>
 
-**Backend Engineer → Acting Lead** | Июн 2022 – Окт 2023
+**Backend Engineer → Acting Lead** | Июнь 2022 – Октябрь 2023
 
-**Проект**: Аналитика транзакций и веб-приложения (микросервисы)
-- Спроектировал и выпустил **пайплайн аналитики транзакций** (RabbitMQ → ClickHouse), заменив PostgreSQL-based отчётность — снизил latency аналитики **с минут до секунд** и разгрузил OLTP-базу
-- Внедрил **слоистую архитектуру**, декомпозировав компоненты для улучшения масштабируемости, упрощения юнит-тестирования и ускорения деплоя изменений
-- Автоматизировал тестирование с **pytest**, подняв покрытие **с 0% до 92%**, **сократив время дебага на 50%** и стабилизировав релизный цикл
-- Внедрил линтеры (**ruff & mypy**) в рабочий процесс, **снизив количество статических ошибок на 25%** и ускорив code review
-- Настроил **CI/CD пайплайны** с тестами, линтерами и тайп-чекерами, **сократив время релизного цикла на 40%** и минимизировав production-регрессии
-- **Менторил и онбордил** новых инженеров, ускоряя их выход на продуктивность; проводил кросс-командные code review для раннего выявления архитектурных недочётов
-- Проводил **технические интервью и performance review**, выявляя зоны роста и повышая общую эффективность команды
-- Выполнил **системный анализ** для сторонних интеграций, написал документацию и обучил разработчиков — снизив порог входа в новые интеграции
-- Разработал микросервис загрузки файлов с поддержкой **S3/MinIO** и кэшированием метаданных в PostgreSQL, **сократив latency доступа к файлам на 40%** и снизив нагрузку на хранилище
+**Проект**: Loyalty & Rewards Platform (Микросервисы)
 
-**Стек**: Python3 (FastAPI, Django DRF), PostgreSQL, ClickHouse, RabbitMQ, Docker, S3 (Amazon, MinIO), GitHub, Trello
+- **Event-driven аналитика**: спроектировал и внедрил аналитический pipeline (RabbitMQ → ClickHouse), заменив PostgreSQL-based reporting — снизил latency аналитики **с минут до секунд** и разгрузил OLTP БД
+- **Слоистая архитектура**: внедрил слоистую архитектуру, разделив компоненты для улучшения масштабируемости, упрощения модульного тестирования и ускорения деплоев изменений
+- **CI/CD quality initiative**: получил buy-in команды на восстановление отключённых линтеров и type checkers в одном MR, установив единый code style, **исключив дебаты по форматированию** в code review
+- **Автоматизация тестов**: внедрил **pytest**, повысил покрытие **с 0% до 92%**, **сократив время дебага на 50%** и стабилизировав релизный цикл
+- **Интеграция линтеров**: интегрировал **ruff & mypy** в процесс разработки, **снизив статические ошибки на 25%** и ускорив код-ревью
+- **CI/CD пайплайны**: настроил пайплайны с тестами, линтерами и type checkers, **сократив релизный цикл на 40%** и минимизировав production regressions
+- **Менторство и онбординг**: наставлял и онboardил новых инженеров, ускоряя ramp-up; проводил cross-team code reviews для выявления архитектурных ошибок
+- **Техinical interviews и performance reviews**: проводил интервью и ревью, выявляя зоны роста и повышая эффективность команды
+- **Анализ сторонних интеграций**: выполнял анализ сторонних интеграций, документировал процессы интеграции и обучал разработчиков — снижая сложность внедрения
+- **File upload microservice**: разработал microservice с **S3/MinIO** support и PostgreSQL metadata caching, **снизив latency доступа к файлам на 40%** и уменьшив I/O нагрузку на storage
+- **Наставничество джуниоров**: коммерчески наставлял 2 junior-разработчиков, выросших до самостоятельных контрибьюторов
 
----
-**Проект**: Десктоп-приложение — автоматическое распознавание автомобильных номеров
-- Интегрировал алгоритм распознавания на базе OpenCV в систему видеонаблюдения, повысив скорость детекции на **40%** и точность на **30%**
-- Оптимизировал декомпозицию и оценку задач, сократив время реализации фич на **20%**
-- Спроектировал архитектуру приложения и ERD-диаграммы, выбрав технологии, минимизирующие технический долг
-- Автоматизировал сборку Python-приложения в `.exe` через PyInstaller, оптимизировав размер и зависимости — сократив время развёртывания на **50%**
-
-**Стек**: Python3 (OpenCV, PyQt6, SQLAlchemy, PyInstaller), SQLite, Docker, GitHub, Trello
+**Технологический стек**: Python3 (FastAPI, Django DRF), PostgreSQL, ClickHouse, RabbitMQ, Docker, S3 (Amazon, MinIO), GitHub, Trello
 
 ---
-**Проект**: Backend мобильного приложения для контрольных органов
-- Развернул CI/CD инфраструктуру на GitLab CI и Docker, автоматизировав полный пайплайн сборки-тестирования-деплоя
-- Руководил декомпозицией задач и спринт-планированием как acting team lead, обеспечив сбалансированную нагрузку и чёткие требования
-- Спроектировал масштабируемую и отказоустойчивую архитектуру мобильного бэкенда (FastAPI + Django Admin + TortoiseORM)
-- Разработал высокопроизводительный REST API с ролевой моделью доступа, обеспечив безопасный обмен данными
-- Создал Django admin-панель с управлением слотами календаря, автоматизировав планирование и устранив конфликты записей
-- Интегрировал Zoom API для автоматического создания видеоконференций и синхронизации с календарём
-- Успешно защитил проект перед заказчиком, обосновав архитектурные решения и продемонстрировав надёжность системы
 
-**Стек**: Python3 (FastAPI, Django-админка, TortoiseORM), PostgreSQL, Docker, GitHub, Telegram
+**Проект**: Desktop Application — Automatic License Plate Recognition
 
-***
+- **OpenCV интеграция**: интегрировал алгоритм распознавания в surveillance system, улучшив скорость детекции **на 40%** и точность **на 30%**
+- **Оптимизация планирования**: улучшил task decomposition и estimation, сократив время delivery фич **на 20%**
+- **Архитектура**: разработал архитектуру приложения и ERD диаграммы, подобрав технологии, минимизируя technical debt
+- **PyInstaller упаковка**: автоматизировал упаковку Python приложения в .exe, оптимизировал размер и зависимости — **сократив время деплоя на 50%**
+
+**Технологический стек**: Python3 (OpenCV, PyQt6, SQLAlchemy, PyInstaller), SQLite, Docker, GitHub, Trello
+
+---
+
+**Проект**: Mobile Application Backend для Regulatory Authorities
+
+- **CI/CD инфраструктура**: deployed GitLab CI + Docker, автоматизировав полный build-test-deploy пайплайн
+- **Task decomposition & sprint planning**: как acting team lead, обеспечивал balanced workload и чёткие требования
+- **Архитектура мобильного бэкенда**: спроектировал scalable и fault-tolerant архитектуру (FastAPI + Django Admin + TortoiseORM)
+- **REST API с RBAC**: разработал высокопроизводительный REST API с role-based access control
+- **Django admin с календарём**: создал Django admin панель с calendar slot management, автоматизировав scheduling и исключив booking conflicts
+- **Zoom API интеграция**: интегрировал Zoom API для автоматического создания video conference и calendar sync
+- **Защита проекта**: успешно защитил проект перед stakeholders с архитектурным обоснованием и live reliability demo
+
+**Технологический стек**: Python3 (FastAPI, Django-админка, TortoiseORM), PostgreSQL, Docker, GitHub, Telegram
+
+---
 
 <a href="https://artw.ru/" target="_blank">
 <img height="30" src="https://artw.ru/local/templates/main_new/assets/images/logo-white.svg" alt="ARTW">
 </a>
 
-**Python Backend Developer (Acting Lead)** | Апр 2021 – Июн 2022
+**Python Backend Developer (Acting Lead)** | Апрель 2021 – Июнь 2022
 
-**Проект**: Платформа для брокеров и клиентов в сфере недвижимости
-- Спроектировал и выпустил **сервис расчёта ипотеки** с нуля за 3–4 недели, изолировав доменную логику через FastAPI + Django Admin с feature toggles
-- Стабилизировал интеграции со сторонними сервисами (AmoCRM, ДвижAPI), реализовав semaphore-based rate limiter и **устранив 429-ошибки** и паттерн self-DDoS
-- Исправил критичный баг консистентности данных, изменив порядок API-вызов/запись-в-БД на атомарные операции и устранив осиротевшие записи
-- Продвинул и внедрил тестовое покрытие **с 0% до 50%**, значительно снизив количество production-дефектов
-- Взял на себя обязанности team lead: спринт-планирование, декомпозиция фич, управление релизами
-- Рефакторил legacy-кодовую базу, сокращая технический долг и улучшая сопровождаемость системы
-- Провёл миграцию данных между сервисами с нулевой потерей данных и минимальным downtime
-- Проводил кросс-командные code review; внедрил линтеры как последнее качественное улучшение перед выходом из проекта
+**Проект**: Real Estate Brokerage Platform для Clients и Brokers
 
-**Стек**: Python3, FastAPI, TortoiseORM, Django-админка, Celery, pytest, asyncio, aiohttp, PostgreSQL, Redis, GitLab, Docker, Sentry, YouTrack
+- **Mortgage Calculator Service**: спроектировал и отправил в production mortgage calculation service с нуля за 3–4 недели, изолировав доменную логику через FastAPI + Django Admin с feature toggles
+- **AmoCRM интеграция**: стабилизировал third-party интеграцию (AmoCRM, DvizhAPI) через semaphore-based rate limiter, **устранив 429 ошибки** и self-DDoS паттерны
+- **Critical data consistency bug**: исправил баг консистентности данных, переупорядочив API-call/DB-write sequence, обеспечив atomic operations и устранив orphaned records
+- **Test coverage advocacy**: продвигал покрытие тестами **с 0% до 50%**, значительно снизив production defects
+- **Team lead responsibilities**: принимал на себя lead обязанности: sprint planning, feature decomposition, release management
+- **Legacy code refactoring**: рефакторил legacy код, снижая technical debt и улучшая maintainability
+- **Data migration**: управлял миграцией данных между сервисами с zero data loss и minimal downtime
+- **Code reviews & quality**: проводил cross-team code reviews; внедрил линтеры как lasting quality improvement перед уходом
 
-***
+**Технологический стек**: Python3, FastAPI, TortoiseORM, Django-админка, Celery, pytest, asyncio, aiohttp, PostgreSQL, Redis, GitLab, Docker, Sentry, YouTrack
+
+---
 
 <a href="https://careers.otr.ru/" target="_blank">
 <img height="50" src="https://static.tildacdn.com/tild3439-3464-4030-b163-636236366533/Group_615.svg" alt="OTR">
 </a>
 
-**Backend Developer** | 2018 – 2021
+**Backend Engineer** | 2018 – 2021
 
-**Проект**: Админка с интеграцией Dadata API
-- Реализовал read-through кэш для Dadata API через PostgreSQL с нормализацией ключей запросов и B-tree индексированием, устранив дублирующие внешние вызовы
-- Разработал планировщик автоматической очистки устаревших данных, контролируя рост базы данных
-- Спроектировал кэширующий слой с осознанной простотой (PostgreSQL вместо Redis) — оптимально для нагрузки ~100–500 запросов/день
+**Проект**: Admin Panel с интеграцией Dadata API
 
-**Стек**: Python (Django), PostgreSQL, Docker, GitHub, Trello
+- **Dadata API кэширование**: реализовал read-through cache для Dadata API через PostgreSQL с нормализованными query keys и B-tree индексами, устранив дублирующие внешние вызовы и **все баны от rate limiting** — система оставалась стабильной даже под нагрузочным тестированием
+- **Очистка stale данных**: спроектировал scheduler для автоматической очистки устаревших кэшированных данных, контролируя рост БД
+- **Простота архитектуры**: выбрал PostgreSQL вместо Redis — консервативное решение, адекватное для ~100–500 запросов/день
+- **Git-based workflows**: **внедрил Git** вместо zip-архивов и **установил cross-team code reviews** внутри команды из 3 человек, улучшив качество кода и коллаборацию
 
----
-**Проект**: IoT-дашборд — показатели приборов (Near Real-Time)
-- Разработал Kafka-consumer сервис (single consumer, ~5 msg/sec) с in-memory кэшированием для отображения последнего состояния, приоритизировав latency над durability
-- Реализовал слой персистентности с **MongoDB**, сократив время отклика и разгрузив брокер
-- Разработал REST API с фильтрацией и пагинацией для кэшированных метрик устройств
-- Настроил Docker-based деплой с CI/CD для автоматического развёртывания сервиса
-
-**Стек**: Python (FastAPI, Motor), MongoDB, Kafka, Notion, GitHub
+**Технологический стек**: Python (Django), PostgreSQL, Docker, GitHub, Trello
 
 ---
-**Проект**: Telegram-бот для услуг фотографа с админкой (Tech Lead)
-- Спроектировал систему бронирования с PostgreSQL-транзакциями и concurrency control, устранив edge-кейсы двойного бронирования
-- Развернул CI/CD пайплайн на Docker и GitHub Actions для автоматической сборки и релизов
-- Разработал доменную модель (users → slots → bookings), оптимизированную под workflow планирования
-- Реализовал асинхронный планировщик уведомлений с batch-отправкой в рамках rate limits Telegram API
-- Менторил junior-разработчика, внедрил Git-based workflow (заменив обмен zip-архивами)
-- Управлял коммуникацией с заказчиком, декомпозицией задач и планированием релизов end-to-end
 
-**Стек**: Python (aiogram, Django), PostgreSQL, Docker, Trello, GitHub
+**Проект**: IoT Dashboard — Device Metrics (Near Real-Time)
+
+- **Kafka consumer service**: построил Kafka consumer service (single consumer, ~5 msg/sec) с in-memory кэшем для отображения последних данных, отдавая приоритет низкой задержке над надёжностью
+- **MongoDB persistence**: реализовал слой persistence с **MongoDB**, снизив время отклика и разгрузив broker
+- **REST API с фильтрацией**: разработал REST API с фильтрацией и пагинацией для кэшированных device metrics
+- **Docker CI/CD**: настроил Docker-based deployment с CI/CD для automated service rollout
+
+**Технологический стек**: Python (FastAPI, Motor), MongoDB, Kafka, Notion, GitHub
 
 ---
-**Проект**: Бэкенд мобильного приложения
-- Спроектировал схему БД, оптимизированную под паттерны доступа мобильного приложения
-- Развернул CI/CD инфраструктуру на Docker и GitLab CI
-- Разработал REST API, обеспечив быстрый и безопасный обмен данными между мобильным клиентом и сервером
-- Создал и улучшил административный интерфейс, снизив нагрузку на поддержку
-- Интегрировал сторонние сервисы для расширения функциональности
 
-**Стек**: Python (Django DRF), PostgreSQL, Docker, GitHub, Trello
+**Проект**: Telegram Bot для Photographer Services с Admin Panel (Tech Lead)
 
-***
+- **Booking system**: спроектировал booking system с PostgreSQL transaction-based concurrency control, исключив double-booking edge cases
+- **CI/CD**: deployed CI/CD pipeline с Docker и GitHub Actions для automated builds и releases
+- **Domain model**: разработал domain model (users → slots → bookings), оптимизированный для scheduling workflows
+- **Async notifications**: реализовал async notification scheduler с batch delivery, работая в рамках Telegram API rate limits
+- **Full-cycle delivery**: управлял client communication, task decomposition, и release planning end-to-end
 
-## 🛠 Ключевые навыки:
+**Технологический стек**: Python (aiogram, Django), PostgreSQL, Docker, Trello, GitHub
 
-**Core и Backend**
+---
+
+## 🛠 Hard skills:
+
+**Core & Backend**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -164,7 +173,7 @@ Senior Backend Engineer с 6+ годами опыта проектировани
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
-**Данные и очереди сообщений**
+**Data & Messaging**
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -172,7 +181,7 @@ Senior Backend Engineer с 6+ годами опыта проектировани
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**Инфраструктура и DevOps**
+**Infrastructure & DevOps**
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -181,15 +190,16 @@ Senior Backend Engineer с 6+ годами опыта проектировани
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
-**Архитектура и качество**
+**Architecture & Quality**
 
 ![C4 Model](https://img.shields.io/badge/C4_Model-0078D4?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-25A162?style=for-the-badge)
 ![BDD](https://img.shields.io/badge/BDD-7B68EE?style=for-the-badge)
 ![Event Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge)
+![Test Coverage](https://img.shields.io/badge/Test%20Coverage-92%25-brightgreen?style=for-the-badge)
 
-**Инструменты и платформы**
+**Tools & Platforms**
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -197,24 +207,29 @@ Senior Backend Engineer с 6+ годами опыта проектировани
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 
-**ОС и IDE**
+**OS & IDE**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-**AI-инструменты**
+**AI Tools**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-## 🤝 Soft skills:
-- **Force Multiplier**: менторил 4+ инженеров до уровня повышения через структурированное обучение TDD/BDD и воркшопы по архитектуре
-- Осваиваю новые технологические стеки за две недели — подтверждено выпуском production-фич на незнакомых фреймворках в первом спринте
-- Внедряю **улучшения Agile-процессов** (Scrum, Kanban), измеримо сокращающие время выполнения задач и повышающие предсказуемость спринтов на **35%**
-- Доношу сложные архитектурные решения до нетехнических стейкхолдеров — успешно защищал проекты перед руководством заказчика
-- Быстро анализирую масштабные системы, выявляя узкие места и оптимизируя критические пути (снижение latency в 36 раз, ускорение импорта в 12 раз)
+## 🤝 Гибкие навыки (Soft Skills):
+
+- **Force Multiplier**: наставил 4+ инженеров до уровня promotion через структурированное обучение TDD/BDD, архитектурные воркшопы и инженерию требований
+- **Трек наставничества**:
+  - **Compel**: обучил 3 системных аналитиков ERD, Swagger и BDD практикам, повысив качество требований
+  - **Fortech** (вне работы): коммерчески наставлял 2 junior-разработчиков, выросших до самостоятельных контрибьюторов
+  - **OTR**: наставил 2 junior-разработчиков в системной архитектуре и TDD
+- Быстро осваиваю новые технологические стеки — демонстрировал выпуск продуктовых фич на незнакомых фреймворках в первый спринт
+- **Улучшаю Agile процессы** (Scrum, Kanban), измеримо сокращая время выполнения задач и улучшая предсказуемость спринтов **на 35%**
+- Коммуницирую сложные архитектурные решения с нетехническими стейкхолдерами — успешно защищал проекты перед руководством
+- Быстро анализирую крупномасштабные системы, находя узкие места и оптимизируя критические пути (36x улучшение задержки, 12x ускорение импорта)
 
 ***
 
@@ -232,43 +247,45 @@ Senior Backend Engineer с 6+ годами опыта проектировани
 * Бакалавриат
   * <a href="https://inep.sfedu.ru/chairs/rte/" target="_blank">Электроника и наноэлектроника</a>
 
-* <a href="http://mrcpk.tgn.sfedu.ru/" target="_blank">МРЦПКиПК</a>
-  * Юриспруденция
+* <a href="http://mrcpk.tgn.sfedu.ru/" target="_blank">Межотраслевой региональный центр повышения квалификации и переподготовки кадров</a>
+  * Право
 * Программирование на Python
 
 ***
+
 ## <p align="center">🏆 Достижения:</p>
-  * Финалист <a href="https://i.moscow/lct" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2025</a>
+  * Финалист <a href="https://i.moscow/lct" target="_blank">"ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2025"</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_certificate_lct_2025_msk.pdf" target="_blank">Сертификат</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_diploma_lct_2025_msk.pdf" target="_blank">Диплом</a>
-  * Финалист <a href="https://i.moscow/lct" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2024</a>
+  * Финалист <a href="https://i.moscow/lct" target="_blank">"ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2024"</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_certificate_lct_2024_msk.pdf" target="_blank">Сертификат</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_diploma_lct_2024_msk.pdf" target="_blank">Диплом</a>
-  * Финалист <a href="https://leaders2023.innoagency.ru/task_2" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023</a>
+  * Финалист <a href="https://leaders2023.innoagency.ru/task_2" target="_blank">"ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023"</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_certificate.pdf" target="_blank">Сертификат</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders2023_diplom.pdf" target="_blank">Диплом</a>
-  * Финалист <a href="https://i.moscow/lct/krasnodar" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023 Краснодарский край</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/files/files/leaders2023_diplom.pdf" target="_blank">Диплом</a>
+  * Финалист <a href="https://i.moscow/lct/krasnodar" target="_blank">"ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023 Краснодарский край"</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_certificate.pdf" target="_blank">Сертификат</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_diplom.pdf" target="_blank">Диплом</a>
-  * Хакатон <a href="https://xn--80aaaairqt2ajzt9a.xn--p1ai/" target="_blank">ЕВРАЗА 2.0</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/master/files/evraz.pdf" target="_blank">Сертификат</a>
-  * Онлайн-хакатон <a href="https://codenrock.com/contests/scbteamchallenge-codenrock/#/" target="_blank">Sovcombank Team Challenge 2022</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/master/files/Sovcombank.pdf" target="_blank">Сертификат</a>
-
+  * <a href="https://xn--80aaaairqt2ajzt9a.xn--p1ai/" target="_blank">EVRAZ 2.0</a> Хакатон
+    * <a href="https://github.com/OptikRUS/resume/blob/files/files/evraz.pdf" target="_blank">Сертификат</a>
+  * <a href="https://codenrock.com/contests/scbteamchallenge-codenrock/#/" target="_blank">SOVCOMBANK TEAM CHALLENGE 2022</a> Хакатон
+    * <a href="https://github.com/OptikRUS/resume/blob/files/files/Sovcombank.pdf" target="_blank">Сертификат</a>
 
 ***
-## <p align="center">💻 Обо мне:</p>
+
+## <p align="center">💻 О себе:</p>
 <p>
 Senior Backend Engineer, специализирующийся на высоконагруженных распределённых системах, event-driven архитектурах и developer experience.
-Обеспечил измеримый бизнес-импакт в B2B маркетплейсах, fintech-аналитике, платформах недвижимости и государственных системах.
-Доказанный трек-рекорд трансформации инженерной культуры через менторство, test-driven разработку и архитектурные стандарты —
-последовательно повышаю производительность команд. 4x финалист хакатона «Лидеры цифровой трансформации».
+Принёс измеримый бизнес-impакt в B2B маркетплейсы, loyalty платформы, real estate платформы и government systems.
+Доказанный track record трансформации инженерной культуры через mentorship, test-driven development и архитектурные стандарты —
+последовательно повышая эффективность команд. 4x финалист хакатона "Лидеры цифровой трансформации".
 </p>
 
 ***
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=640&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D0%B2+%D0%BC%D0%B0%D1%80%D1%82%D0%B5+2026+%D0%B3%D0%BE%D0%B4%D0%B0)](#кирилл-медведко)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=640&lines=Информация+обновлена+в+марте+2026;.+.+.)](#кирилл-медведко)
 
 </div>
 
