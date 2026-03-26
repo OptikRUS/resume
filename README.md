@@ -206,6 +206,8 @@ Senior Backend Engineer с 6+ годами опыта проектировани
 **AI-инструменты**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 ## 🤝 Soft skills:
 - **Force Multiplier**: менторил 4+ инженеров до уровня повышения через структурированное обучение TDD/BDD и воркшопы по архитектуре
